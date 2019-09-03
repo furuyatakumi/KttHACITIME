@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TestApp</string>
-    <string name="hello">変更したよ２！</string>
+    <string name="hello">おはよう！</string>
 </resources>
